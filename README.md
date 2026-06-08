@@ -98,9 +98,9 @@ const ameerRizvi = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rizvi313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizvi313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizvi313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizvi313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" />
 
 <br/><br/>
 
