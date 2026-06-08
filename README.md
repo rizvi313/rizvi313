@@ -12,9 +12,7 @@
 
 <!-- Profile Views & Socials -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rizvi313&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views" />
-
-  &nbsp;
+  < !img src="https://komarev.com/ghpvc/?username=rizvi313&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views" />
   <a href="mailto:ameerrizvi72@gmail.com">
   <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -25,7 +23,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20in-Rawalpindi%2C%20Pakistan-6d28d9?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
-
 </div>
 
 ---
