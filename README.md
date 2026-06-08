@@ -95,14 +95,12 @@ const ameerRizvi = {
 ## 📊 GitHub Stats
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=📊+GitHub+Activity+%26+Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizvi313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165" />
+&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizvi313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" />
 &nbsp;
 <img src="https://skillicons.dev/icons?i=react,nodejs,wordpress,js,html,css,mysql,php,git&perline=9&theme=dark" />
 &nbsp;
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizvi313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165" />
-&nbsp;
-<!--img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizvi313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" /-->
 
 <br/><br/>
 
