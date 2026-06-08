@@ -35,7 +35,7 @@
 
 ```javascript
 const ameerRizvi = {
-  role:       "Full-Stack Web Developer @ Code Swifters",
+  role:       "Front-End Web Developer @ Code Swifters",
   experience: "3+ years | 25+ projects delivered",
   education:  "BS Computer Science — PMAS-ARID University (2027)",
   location:   "Rawalpindi, Pakistan 🇵🇰",
@@ -99,6 +99,8 @@ const ameerRizvi = {
 &nbsp;
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizvi313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" />
 &nbsp;
+&nbsp;
+&nbsp;
 <img src="https://skillicons.dev/icons?i=react,nodejs,wordpress,js,html,css,mysql,php,git&perline=9&theme=dark" />
 &nbsp;
 
@@ -136,7 +138,7 @@ const ameerRizvi = {
       <sub>Professional Experience</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Full--Stack-Developer-7c3aed?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Front--End-Developer-7c3aed?style=for-the-badge" /><br/>
       <sub>Frontend + Backend + CMS</sub>
     </td>
   </tr>
