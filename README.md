@@ -106,7 +106,7 @@ const ameerRizvi = {
 
 <br/><br/>
 
-< img src="https://github-readme-streak-stats.herokuapp.com/?user=rizvi313&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%" />
+<! img src="https://github-readme-streak-stats.herokuapp.com/?user=rizvi313&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%" / ! >
 
 <br/><br/>
 
